@@ -1,0 +1,11 @@
+<Alloy>
+	<NavigationWindow id="nav" module="xp.ui">
+		<Window id="win">
+			<LeftNavButton>
+				<View>
+					<Button id="closeButton" class="navButton" titleid="Close" />
+				</View>
+			</LeftNavButton>
+		</Window>
+	</NavigationWindow>
+</Alloy>
