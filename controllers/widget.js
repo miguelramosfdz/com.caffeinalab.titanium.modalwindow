@@ -1,5 +1,5 @@
 var args = arguments[0] || {};
-$.win.title = args.title;
+if (args.title) $.win.title = args.title;
 
 /*
 Methods
